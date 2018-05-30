@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "cron.expression",
+    "type": "java.lang.String",
+    "description": "Time to run the job."
+  },
+  {
+    "name": "job.chunk",
+    "type": "java.lang.String",
+    "description": "Number of line to insert on a transaction."
+  },
+  {
+    "name": "base.package",
+    "type": "java.lang.String",
+    "description": "Package of project."
+  },
+  {
+    "name": "file.path.csv",
+    "type": "java.lang.String",
+    "description": "Fil path of the CSV."
+  }
+]}
